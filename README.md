@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and TypeScript soon
 - 💞️ I’m looking to collaborate on awesome web projects
 - 📫 How to reach me cecilamediku@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: His/He
 - ⚡ Fun fact: ...
 
 <!---
